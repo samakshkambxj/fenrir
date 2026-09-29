@@ -1,18 +1,3 @@
-# This repository is deprecated and archived.
-
-## Why?
-
-Mainly because this repository itself sucks. It's pretty much a glorified Python framework for applying binary patches. The only genuinely decent part is the cert bypass logic, which uses liblk anyway.
-
-I initially wanted to add ARM64 support to kaeru so I could replace this with something that has proper payload support. I have a working PoC, but for the reasons explained below, I will not be making it public.
-
-I am **tired** of people making money from my work without proper attribution. Because of that, I have kept most of my projects private for quite a while. I had some tolerance for it initially, but it became exhausting, especially when I started receiving messages every day asking for help with something I do not even advertise.
-
-I appreciate those who contributed, as well as those who were genuinely interested and wanted to learn more about this work. However, I am done with it.
-
-<details>
-<summary>Click to see the old README</summary>
-
 # fenrir
 
 **Language:** [日本語](README_ja-JP.md)
@@ -112,6 +97,7 @@ The following devices are currently supported:
 | Nothing Phone (2a) Plus | `PacmanPro` |
 | CMF Phone 1 | `Tetris` |
 | Nothing Phone (3a) Lite | `Galaxian` |
+| CMF Phone 2 Pro | `Galaga` |
 | Lenovo IdeaTab Pro / Xiaoxin Pad Pro 12.7 | `peridotl` |
 | Tecno Pova 4 | `LG7n` |
 | Tecno Pova 4 Pro | `LG8n` |
@@ -157,4 +143,3 @@ Key points to be aware of:
 * You cannot keep modifications private if the software is used to provide a networked service.
 
 For full details, please refer to the [LICENSE](https://github.com/R0rt1z2/fenrir/tree/master/LICENSE) file.
-</details>
